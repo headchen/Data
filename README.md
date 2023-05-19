@@ -11,3 +11,5 @@ Please refer to the following blog posts I've written that discuss code in this 
 ## Installation
 
 * Reference this component in your solution via its [NuGet package](https://www.nuget.org/packages/ErikTheCoder.Data/).
+
+> 记录sql日志，也行能够用的上
